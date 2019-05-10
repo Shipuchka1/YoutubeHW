@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/main"
+        android:title="Главная" />
+
+    <item
+        android:id="@+id/trend"
+        android:icon="@drawable/trends"
+        android:title="В тренде" />
+
+    <item
+        android:id="@+id/follows"
+        android:icon="@drawable/follows"
+        android:title="Подписки" />
+    <item
+        android:id="@+id/input"
+        android:icon="@drawable/aaa"
+        android:title="Входящие" />
+    <item
+        android:id="@+id/library"
+        android:icon="@drawable/library"
+        android:title="Библиотека" />
+</menu>
